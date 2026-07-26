@@ -1,0 +1,22 @@
+# Ignore Visual Studio Code workspace settings and generated debug files
+.vscode/
+
+# Ignore compiled object files and executables
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.suo
+*.idb
+
+# Ignore build folders
+build/
+
+# Ignore any other generated intermediate files
+*.o
+*.log
+*.tmp
+*.user
+
+# Ignore the centralized build output directory
+output/
